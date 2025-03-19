@@ -3,7 +3,7 @@
 Oi! 👋  
 Esse é um projetinho simples que eu desenvolvi como desafio de lógica de programação em JavaScript na ONE + Alura.
 
-A proposta era criar a lógica por trás da página onde fosse possível **adicionar nomes de amigos** e depois fazer um **sorteio aleatório**, como se fosse um Amigo Secreto. 😊
+A proposta era criar a lógica por trás da página onde fosse possível **adicionar nomes de amigos** e depois fazer um **sorteio aleatório**, como se fosse um amigo secreto/oculto. 
 
 ---
 
@@ -31,9 +31,7 @@ A proposta era criar a lógica por trás da página onde fosse possível **adici
 2. Clica em **"Adicionar"** e o nome aparece na lista.
 3. Quando quiser, é só clicar em **"Sortear amigo"**, e o sistema escolhe um nome aleatório da lista.
 
----
-
----
+--
 
 ## 🔗 Acesse o projeto online
 
