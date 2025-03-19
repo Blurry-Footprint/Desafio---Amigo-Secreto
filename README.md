@@ -38,4 +38,4 @@ A proposta era criar a lógica por trás da página onde fosse possível **adici
 ## 🔗 Acesse o projeto online
 
 Você pode ver o projeto funcionando aqui:  
-👉 [Clique para acessar o Amigo Secreto]()
+👉 [Clique para acessar o Amigo Secreto](https://blurry-footprint.github.io/Desafio---Amigo-Secreto/)
