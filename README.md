@@ -31,7 +31,7 @@ A proposta era criar a lógica por trás da página onde fosse possível **adici
 2. Clica em **"Adicionar"** e o nome aparece na lista.
 3. Quando quiser, é só clicar em **"Sortear amigo"**, e o sistema escolhe um nome aleatório da lista.
 
---
+---
 
 ## 🔗 Acesse o projeto online
 
