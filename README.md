@@ -19,9 +19,9 @@ A proposta era criar a regra de negócio por trás da página onde fosse possív
 
 ## 📂 Estrutura do Projeto
 
-- `index.html` → Estrutura da página
-- `style.css` → Estilização básica (caso você adicione estilo, claro)
-- `app.js` → Toda a lógica do funcionamento
+- `index.html` → Estrutura da página.
+- `style.css` → Estilização da página. 
+- `app.js` → Toda a lógica do funcionamento da página.
 
 ---
 
